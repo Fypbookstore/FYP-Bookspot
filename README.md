@@ -4,7 +4,18 @@ Welcome to the Online BookSpot App! This is a readme file that provides an overv
 
 ## Table of Contents
 
-- [Introduction](#introduction)![Screenshot_20230712-215548_1](https://github.com/Fypbookstore/FYP-Bookspot/assets/139375369/c5d26cf2-efd1-4e05-a952-48c12e6a0869)
+- [Introduction](#introduction)!
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+The Online BookSpot  App is a web-based application designed to provide users with a convenient platform for browsing and purchasing books online. With this app, users can explore a wide range of books, read book descriptions, view ratings and reviews, and make secure online purchases.
+[Screenshot_20230712-215548_1](https://github.com/Fypbookstore/FYP-Bookspot/assets/139375369/c5d26cf2-efd1-4e05-a952-48c12e6a0869)
 ![Screenshot_20230712-215833_1](https://github.com/Fypbookstore/FYP-Bookspot/assets/139375369/ed087ce5-bdb3-4d6f-aaba-7b3673968927)
 ![Screenshot_20230712-212857_1](https://github.com/Fypbookstore/FYP-Bookspot/assets/139375369/5c3f1e46-aaeb-44af-b835-bcfb7dae565e)
 ![Screenshot_20230712-212843_1](https://github.com/Fypbookstore/FYP-Bookspot/assets/139375369/e65c22ff-fe27-41b8-a178-f85f02f4f24b)
@@ -16,18 +27,6 @@ Welcome to the Online BookSpot App! This is a readme file that provides an overv
 ![Screenshot_20230712-212717_1](https://github.com/Fypbookstore/FYP-Bookspot/assets/139375369/19e08304-6812-4446-93e4-fdfb848287cc)
 ![Screenshot_20230712-212613_1](https://github.com/Fypbookstore/FYP-Bookspot/assets/139375369/6018d420-cf31-4c8c-a50b-e731e9ecdfc2)
 ![Screenshot_20230712-212602_1](https://github.com/Fypbookstore/FYP-Bookspot/assets/139375369/b89decff-39b8-4d8c-a702-29929b7238d6)
-
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-The Online BookSpot  App is a web-based application designed to provide users with a convenient platform for browsing and purchasing books online. With this app, users can explore a wide range of books, read book descriptions, view ratings and reviews, and make secure online purchases.
-
 ## Features
 
 1. User Registration and Authentication:
