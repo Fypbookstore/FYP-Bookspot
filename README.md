@@ -76,10 +76,10 @@ Follow these steps to install the Online BookSpot App:
 
 1. Clone the project repository to your local machine.
 2. Set up a web server and configure it to point to the project directory.
-3. Create a new MySQL database for the app.
-4. Import the provided SQL schema into the newly created database.
+3. Create a new firebase database for the app.
+4. Import the provided firebase schema into the newly created database.
 5. Configure the database connection settings in the app's configuration file.
-6. Make sure the necessary PHP extensions are enabled (e.g., MySQLi).
+6. Make sure the necessary PHP extensions are enabled (e.g., Myfirebase).
 7. Start the web server and ensure it is running correctly.
 
 ## Usage
